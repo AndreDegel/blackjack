@@ -1,7 +1,12 @@
 __author__ = 'Andre'
 
+# Import cards from the card class
 from card import Deck, Card
 
+""" Blackjack game that lets you play
+a round of blackjack with a player and a
+computer played dealer.
+"""
 class Player(object):
     """This class represents a player in
     a blackjack game."""
