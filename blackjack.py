@@ -1,6 +1,8 @@
 __author__ = 'Andre'
 
 # Import cards from the card class
+
+#This is jesse, just testing that everything works correctly when open your blackjack program and commit and push
 from card import Deck, Card
 
 """ Blackjack game that lets you play
